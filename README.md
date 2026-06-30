@@ -297,4 +297,4 @@ gcloud run deploy expense-copilot-frontend \
 
 ## Credits
 
-Built by Ghassen Chouikh and Ayoub Chamakhi
+Built by Ghassen Chouikh, Ayoub Chamakhi and Nouhe Chouikh
