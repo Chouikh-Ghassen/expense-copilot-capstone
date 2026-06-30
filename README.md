@@ -292,3 +292,7 @@ gcloud run deploy expense-copilot-frontend \
 ```
 - **Live Deployed App URL**: [https://expense-copilot-frontend-230079881073.us-central1.run.app](https://expense-copilot-frontend-230079881073.us-central1.run.app)
 
+## Credits
+
+Built by Ghassen Chouikh and Ayoub Chamakhi
+
