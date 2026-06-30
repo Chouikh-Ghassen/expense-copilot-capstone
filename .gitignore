@@ -1,0 +1,39 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment Variables
+.env
+.env.local
+
+# IDE & Editor configs
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+pytest.xml
+
+# Deployment Temp folders
+*tmp*/
+agents_tmp*/
+expense_copilot_tmp*/
+
+# OS Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini

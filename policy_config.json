@@ -1,0 +1,9 @@
+{
+  "category_limits": {
+    "meals": 50.0,
+    "travel": 500.0,
+    "software": 100.0,
+    "office supplies": 150.0
+  },
+  "approval_threshold": 1000.0
+}
