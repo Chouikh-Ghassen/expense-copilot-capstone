@@ -3,6 +3,9 @@
 A multi-agent business expense assistant built for the AI Agents capstone project
 using **Google Agent Development Kit (ADK) 2.x**.
 
+
+![Alt text](icons/EXPENSE_COPILOT_BANNER.png)
+
 The system consists of three specialised agents coordinated in sequence, plus an
 MCP server for real-time currency conversion:
 
@@ -292,3 +295,6 @@ gcloud run deploy expense-copilot-frontend \
 ```
 - **Live Deployed App URL**: [https://expense-copilot-frontend-230079881073.us-central1.run.app](https://expense-copilot-frontend-230079881073.us-central1.run.app)
 
+## Credits
+
+Built by Ghassen Chouikh and Ayoub Chamakhi
