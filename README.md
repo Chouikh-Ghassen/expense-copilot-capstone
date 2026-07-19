@@ -9,9 +9,9 @@ using **Google Agent Development Kit (ADK) 2.x**.
 
 ## Demo Video
 
-Watch the full Expense Copilot walkthrough:
+Watch the full project walkthrough:
 
-[![Expense Copilot Demo](https://img.youtube.com/vi/_JyMwMDhms4/maxresdefault.jpg)](https://www.youtube.com/watch?v=_JyMwMDhms4)
+[![YouTube Demo](https://img.shields.io/badge/▶️%20Watch%20Demo-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=_JyMwMDhms4)
 
 ---
 
