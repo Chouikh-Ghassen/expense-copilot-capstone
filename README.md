@@ -6,6 +6,15 @@ using **Google Agent Development Kit (ADK) 2.x**.
 
 ![Alt text](icons/EXPENSE_COPILOT_BANNER.png)
 
+
+## Demo Video
+
+Watch the full Expense Copilot walkthrough:
+
+[![Expense Copilot Demo](https://img.youtube.com/vi/_JyMwMDhms4/maxresdefault.jpg)](https://www.youtube.com/watch?v=_JyMwMDhms4)
+
+---
+
 The system consists of three specialised agents coordinated in sequence, plus an
 MCP server for real-time currency conversion:
 
